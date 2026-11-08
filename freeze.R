@@ -1,5 +1,5 @@
 library(ggplot2)
-
+#added a comment
 # The following code defines how each action is displayed and how it changes the agent’s position.
 arrows <- c("^", ">", "v", "<")
 action_deltas <- list(c(1,0),  # up
